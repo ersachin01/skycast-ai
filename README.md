@@ -183,6 +183,14 @@ Sachin Kumar
 * LinkedIn: [https://www.linkedin.com/in/ersachin01/](https://www.linkedin.com/in/ersachin01/)
 
 ---
+## 📸 Project Preview
+
+![SkyCast AI Preview](./public/projects/skycast-ai.png)
+## 📸 Project Preview
+
+<p align="center">
+  <img src="./public/projects/skycast-ai.png" alt="SkyCast AI Preview" width="100%" />
+</p>
 
 ## ⭐ Support
 
